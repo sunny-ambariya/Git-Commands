@@ -8,6 +8,10 @@
  git status -- [shows the current tracked
               and untracked files]
 
+git pull origin main/master -- [to make sure you are up to date ]
+
+git push origin master/main -- [pushing changies to the remote]
+
  git reset -- [makes all files untracked]
 
  git log -- [shows the hash code and details about
@@ -23,3 +27,5 @@
 git clone_ -- [clone/copies the all files from internet to your computer]
 
 git branch  -- [shows all branch]
+
+
