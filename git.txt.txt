@@ -19,3 +19,7 @@
 
  gitignore -- [a file used to ignore the files which
                 you don't want to get track of, by Git]
+
+git clone_ -- [clone/copies the all files from internet to your computer]
+
+git branch  -- [shows all branch]
