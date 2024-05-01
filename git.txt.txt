@@ -16,7 +16,7 @@ git push origin master/main -- [pushing changies to the remote]
 
  git log -- [shows the hash code and details about
               the recent commit]
-
+ 
  git remote -- [setting address of the location
                  where the changes will be
                   pushed to]
@@ -27,5 +27,11 @@ git push origin master/main -- [pushing changies to the remote]
 git clone_ -- [clone/copies the all files from internet to your computer]
 
 git branch  -- [shows all branch]
+
+ // for Branches
+
+git branch branch[Name] -- [create the branch with branch name]
+
+git checkout branch[name] -- [switching you to that  bname]
 
 
