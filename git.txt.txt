@@ -1,0 +1,21 @@
+ git init  -- [ALLOWS YOU TO RUN ANY GIT
+             COMMANDS ON THAT FOLDER]
+
+ git add . -- [adds every file in Git's tracking zone]
+
+ git commit -m "message inside the double quote" -- [stage the files to get pushed
+                                                    on next "push commands"]
+ git status -- [shows the current tracked
+              and untracked files]
+
+ git reset -- [makes all files untracked]
+
+ git log -- [shows the hash code and details about
+              the recent commit]
+
+ git remote -- [setting address of the location
+                 where the changes will be
+                  pushed to]
+
+ gitignore -- [a file used to ignore the files which
+                you don't want to get track of, by Git]
